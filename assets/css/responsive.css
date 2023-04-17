@@ -3,7 +3,7 @@
 	.slideshow .slideshow__title { font-size:55px; }
 	.home2-default .slideshow .slideshow__title { font-size:50px; }
 	.home2-default .slideshow .slideshow__subtitle { font-size:22px; }
-	.slideshow__text-content.bottom { bottom:9%; }
+	.slideshow__text-content.bottom { bottom:2%; }
 	
 	.collection-hero__image { height:auto; }
 	
@@ -129,7 +129,7 @@
 	#MobileNav li li li a { padding-left:30px; } 
 	#MobileNav li li li li a { padding-left:40px; }
 	
-	.slideshow .wrap-caption {padding:20px;} 
+	.slideshow .wrap-caption { padding:20px; } 
 	.slideshow .slideshow__title { font-size:40px; }
 	.slideshow__text-content.bottom { bottom:1%; }
 	.home2-default .slideshow .slideshow__title { font-size:35px; }
@@ -416,9 +416,9 @@
 	.search .search__form { margin:33px 20px; }
 	.search .search__input { font-size:15px; }
 	
-	.slideshow .wrap-caption {padding:10px 0;display: none;}
+	.slideshow .wrap-caption { padding:10px 0; }
 	.slideshow .slideshow__title { font-size:18px; }
-	.slideshow .slideshow__subtitle { display:none; }
+	.slideshow .slideshow__subtitle {}
 	.slideshow .container { width:320px; }
 	.slideshow .btn { display:none; }
 	.sliderFull .slideshow__subtitle { display:block; }
