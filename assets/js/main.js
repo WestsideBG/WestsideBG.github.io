@@ -1072,8 +1072,10 @@ var delayInMilliseconds = 5000; //1 second
 	  const minusButton = item.querySelector('.qtyBtn.minus');
 	  const quantityInput = item.querySelector('.qty');
 	  const priceElement = item.querySelector('.priceRow .product-price .money');
-	  console.log(priceElement);
+	  
 	  const price = parseFloat(priceElement.textContent);
+
+	  updateTotalPrice();
 	
 	  plusButton.addEventListener('click', () => {
 		let quantity = parseInt(quantityInput.value);
@@ -1108,7 +1110,3 @@ function updateTotalPrice() {
   });
   document.querySelector('.total .product-price .money').textContent = totalPrice.toFixed(2) + 'лв';
 }
-
-document.querySelector('.remove').addEventListener('click', function() {
-	document.querySelector('#header-cart').style.display = 'none';
-  });
