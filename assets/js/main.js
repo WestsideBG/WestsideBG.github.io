@@ -1057,3 +1057,58 @@
 	
 
 })(jQuery);
+
+
+/*-----------------------------------
+Minicart
+-------------------------------------*/
+
+var delayInMilliseconds = 5000; //1 second
+
+	const cartItems = document.querySelectorAll('.mini-products-list .item');
+
+	cartItems.forEach(item => {
+	  const plusButton = item.querySelector('.qtyBtn.plus');
+	  const minusButton = item.querySelector('.qtyBtn.minus');
+	  const quantityInput = item.querySelector('.qty');
+	  const priceElement = item.querySelector('.priceRow .product-price .money');
+	  console.log(priceElement);
+	  const price = parseFloat(priceElement.textContent);
+	
+	  plusButton.addEventListener('click', () => {
+		let quantity = parseInt(quantityInput.value);
+		if (!isNaN(quantity)) {
+		  quantity += 0;
+		  quantityInput.value = quantity;
+		  // Update the price by multiplying the quantity with the unit price
+		  priceElement.textContent = (price * quantity).toFixed(2) + 'лв';
+		  updateTotalPrice();
+		}
+	  });
+	
+	  minusButton.addEventListener('click', () => {
+		let quantity = parseInt(quantityInput.value);
+		if (!isNaN(quantity)) {
+		  quantity -= 0;
+		  quantityInput.value = quantity;
+		  // Update the price by multiplying the quantity with the unit price
+		  priceElement.textContent = (price * quantity).toFixed(2) + 'лв';
+		  updateTotalPrice();
+		}
+	  });
+	});
+
+function updateTotalPrice() {
+  let totalPrice = 0;
+  cartItems.forEach(item => {
+    const priceElement = item.querySelector('.priceRow .product-price .money');
+    const price = parseFloat(priceElement.textContent);
+    const quantity = parseInt(item.querySelector('.qty').value);
+    totalPrice += price;
+  });
+  document.querySelector('.total .product-price .money').textContent = totalPrice.toFixed(2) + 'лв';
+}
+
+document.querySelector('.remove').addEventListener('click', function() {
+	document.querySelector('#header-cart').style.display = 'none';
+  });
