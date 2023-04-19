@@ -325,7 +325,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder { opacity:1; -ms-fil
 	
 	#siteNav > li ul.dropdown li a .anm { position:absolute; right:10px; top:10px; }
 	
-	#siteNav a .lbl { color:#ffffff; font-size:10px; font-weight:400; letter-spacing:0; line-height:1; text-transform:uppercase; display:inline-block; padding:2px 4px; border-radius:3px; background-color:#f00; box-shadow:0 0 3px rgba(0,0,0,0.3); -webkit-box-shadow:0 0 3px rgba(0,0,0,0.3); position:relative; vertical-align:middle; }	
+	.lbl { color:#ffffff; font-size:10px; font-weight:400; letter-spacing:0; line-height:1; text-transform:uppercase; display:inline-block; padding:2px 4px; border-radius:3px; background-color:#f00; box-shadow:0 0 3px rgba(0,0,0,0.3); -webkit-box-shadow:0 0 3px rgba(0,0,0,0.3); position:relative; vertical-align:middle; }	
 	#siteNav a .lbl:after { content:" "; display:block; width:0; height:0; position:absolute; bottom:3px; left:-7px; border:4px solid transparent; border-right-color:transparent; border-right-color:#f00; }
 	#siteNav a .lbl.nm_label3 { background-color:#fb6c3e; }
 	#siteNav a .lbl.nm_label1 { background-color:#01bad4; }
@@ -1686,5 +1686,5 @@ body.home15-funiture-template { font-size:14px; }
 }
 
 #menIMG {
-	
+
 }
