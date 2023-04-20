@@ -203,6 +203,9 @@
 	.product-labels.rounded .lbl { height:35px; width:35px; font-size:10px; }
 	
 	.feature-row__text .row-text { padding: 20px; }
+	.textBlock3 {height: 100%; top: 0%;}
+	.hero .font-bold .mega-title {font-size: 25px;}
+	.hero .text-small .mega-subtitle {font-size: 17px;font-weight: 600;font-style: italic;}
 }
 
 @media only screen and (min-width: 767px) {
