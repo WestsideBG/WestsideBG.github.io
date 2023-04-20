@@ -260,7 +260,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder { opacity:1; -ms-fil
 
 .top-header .user-menu { display:none; }
 .top-header .user-menu .anm { font-size:19px; cursor:pointer; }
-.top-header .list-inline {margin: 0px;list-style:none;left: 52%;position: relative;}
+.top-header .list-inline {margin: 0px;display: inline-flex;list-style:none;left: 52%;position: relative;}
 .top-header .list-inline > li { display:inline-block; padding-right:5px; padding-left:5px; text-transform:uppercase; }
 
 .logo { padding-top:15px; padding-bottom:15px; margin:0; }
@@ -1744,7 +1744,7 @@ body.home15-funiture-template { font-size:14px; }
 @media only screen  and (min-width: 361px)  and (max-width: 375px) { 
 	.userIcon {
 		position: absolute;
-		right: -20%;
+		right: 2%;
 	}
 }
 
@@ -1772,7 +1772,7 @@ body.home15-funiture-template { font-size:14px; }
 @media only screen and (min-width: 650px) and (max-width: 680px) { 
 	.userIcon {
 		position: absolute;
-		right: -38%;
+		right: 2.5%;
 	}
 }
 
@@ -1805,3 +1805,8 @@ body.home15-funiture-template { font-size:14px; }
 		right: -8%;
 	}
 }
+
+	.userIcon {
+		position: absolute;
+		right: 2%;
+	}
