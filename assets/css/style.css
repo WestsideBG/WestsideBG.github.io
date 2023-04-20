@@ -1726,6 +1726,82 @@ body.home15-funiture-template { font-size:14px; }
 	z-index: 0;
 }
 
-#menIMG {
+@media only screen and (max-width: 280px) { 
+	.userIcon {
+		position: absolute;
+		right: -463%;
+		top: -3000%;
+	}
+}
 
+@media only screen and (min-width: 350px) and (max-width: 360px) { 
+	.userIcon {
+		position: absolute;
+		right: -0%;
+	}
+}
+
+@media only screen  and (min-width: 361px)  and (max-width: 375px) { 
+	.userIcon {
+		position: absolute;
+		right: -20%;
+	}
+}
+
+@media only screen and (min-width: 390px) and (max-width: 393px) { 
+	.userIcon {
+		position: absolute;
+		right: -39%;
+	}
+}
+
+@media only screen and (min-width: 412px) and (max-width: 414px) { 
+	.userIcon {
+		position: absolute;
+		right: -65%;
+	}
+}
+
+@media only screen and (min-width: 520px) and (max-width: 600px) { 
+	.userIcon {
+		position: absolute;
+		right: -94%;
+	}
+}
+
+@media only screen and (min-width: 650px) and (max-width: 680px) { 
+	.userIcon {
+		position: absolute;
+		right: -38%;
+	}
+}
+
+
+@media only screen and (min-width: 710px) and (max-width: 759px) { 
+	.userIcon {
+		position: absolute;
+		right: -50%;
+	}
+}
+
+@media only screen and (min-width: 760px) and (max-width: 800px) { 
+	.userIcon {
+		position: absolute;
+		right: -291%;
+		bottom: 0%;
+	}
+}
+
+@media only screen and (min-width: 840px) and (max-width: 890px) { 
+	.userIcon {
+		position: absolute;
+		right: 2%;
+	}
+}
+
+@media only screen and (min-width: 896px) and (max-width: 950px) { 
+	.userIcon {
+		position: absolute;
+		right: -8%;
+	}
 }
