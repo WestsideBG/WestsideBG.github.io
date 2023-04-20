@@ -112,18 +112,7 @@
 	#MobileNav li.grid__item {float:none;padding:0 }
 	#MobileNav li a { color:#333333; font-size:14px; text-decoration:none; display:block; padding:10px 45px 10px 10px; opacity:1; -webkit-font-smoothing:antialiased; font-weight:400; letter-spacing:0.05em; text-transform:uppercase; position:relative }
 	#MobileNav li a .anm { color:#333333; font-size:11px; display:block; width:40px; height:40px; line-height:40px; position:absolute; right:0; top:0; text-align:center  }
-	#MobileNav li a .lbl { color:#ffffff; font-size:10px; font-weight:400; letter-spacing:0; line-height:1; text-transform:uppercase; display:inline-block; padding:2px 4px; border-radius:3px; background-color:#f00; box-shadow:0 0 3px rgba(0,0,0,0.3); position:relative; vertical-align:middle }
-	#MobileNav li a .lbl:after { content:" "; display:block; width:0; height:0; position:absolute; bottom:3px; left:-7px; border:4px solid transparent; border-right-color:#f00 }
-	#MobileNav li a .lbl.nm_label1 { background-color:#01bad4 }
-	#MobileNav li a .lbl.nm_label1:after { border-right-color:#01bad4 }
-	#MobileNav li a .lbl.nm_label2 { background-color:#f54337 }
-	#MobileNav li a .lbl.nm_label2:after { border-right-color:#f54337 }
-	#MobileNav li a .lbl.nm_label3 { background-color:#fb6c3e }
-	#MobileNav li a .lbl.nm_label3:after { border-right-color:#fb6c3e  }
-	#MobileNav li a .lbl.nm_label4 {background-color:#d0a306  }
-	#MobileNav li a .lbl.nm_label4:after { border-right-color:#d0a306 }
-	#MobileNav li a .lbl.nm_label5 { background-color:#af4de2  }
-	#MobileNav li a .lbl.nm_label5:after { border-right-color:#af4de2 }
+
 	#MobileNav li ul { display:none; background-color:#f2f2f2; list-style:none; padding:0; margin:0; }
 	#MobileNav li li a { padding-left:20px  }
 	#MobileNav li li li a { padding-left:30px; } 
