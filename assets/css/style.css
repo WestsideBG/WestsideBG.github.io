@@ -260,7 +260,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder { opacity:1; -ms-fil
 
 .top-header .user-menu { display:none; }
 .top-header .user-menu .anm { font-size:19px; cursor:pointer; }
-.top-header .list-inline {margin: 0px;display: inline-flex;list-style:none;left: 52%;position: relative;}
+.top-header .list-inline {margin: 0px;display: inline-flex;list-style:none;position: relative;}
 .top-header .list-inline > li { display:inline-block; padding-right:5px; padding-left:5px; text-transform:uppercase; }
 
 .logo { padding-top:15px; padding-bottom:15px; margin:0; }
