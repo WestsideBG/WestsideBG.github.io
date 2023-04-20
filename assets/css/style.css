@@ -182,9 +182,39 @@ th { font-family:"Roboto Slab",Helvetica,Tahoma,Arial,serif; font-weight:700; }
 /*======================================================================
   6. Button
 ========================================================================*/
-.btn, .shopify-payment-button__button--unbranded { -moz-user-select:none; -ms-user-select:none; -webkit-user-select:none; user-select:none; -webkit-appearance:none; -moz-appearance:none; appearance:none; display:inline-block; width:auto; height:auto; 
-	text-decoration:none; text-align:center; vertical-align:middle; cursor:pointer; border:1px solid transparent; border-radius:0; padding:8px 15px 8px; background-color:#000; color:#fff; font-family:Poppins,Helvetica,Tahoma,Arial,sans-serif; 
-	font-weight:400; text-transform:uppercase; letter-spacing:1px; line-height:normal; white-space:normal; font-size:13px; -ms-transition:all 0.3s ease-in-out; -webkit-transition:all 0.3s ease-in-out; transition:all 0.3s ease-in-out; }
+.btn, .shopify-payment-button__button--unbranded {
+	-moz-user-select:none;
+	-ms-user-select:none;
+	-webkit-user-select:none;
+	user-select:none;
+	-webkit-appearance:none;
+	-moz-appearance:none;
+	appearance:none;
+	display:inline-block;
+	z-index: 1;
+	position: relative;
+	width:auto;
+	height:auto;
+	text-decoration:none;
+	text-align:center;
+	vertical-align:middle;
+	cursor:pointer;
+	border:1px solid transparent;
+	border-radius:0;
+	padding:8px 15px 8px;
+	background-color: #000;
+	color:#fff;
+	font-family:Poppins,Helvetica,Tahoma,Arial,sans-serif;
+	font-weight:400;
+	text-transform:uppercase;
+	letter-spacing:1px;
+	line-height:normal;
+	white-space:normal;
+	font-size:13px;
+	-ms-transition:all 0.3s ease-in-out;
+	-webkit-transition:all 0.3s ease-in-out;
+	transition:all 0.3s ease-in-out;
+	}
 .btn:hover, .btn:focus, .shopify-payment-button__button--unbranded:hover, .shopify-payment-button__button--unbranded:focus { background-color:#1a1a1a; opacity:0.8; color:#fff; text-decoration:none; }
 .btn--small { padding:8px 10px; font-size:0.92308em; line-height:1; }
 .btn--secondary { background-color:#ededed; color:#000; border:1px solid #000; }
@@ -1539,19 +1569,19 @@ body.home15-funiture-template { font-size:14px; }
   31. Hero Banners
 ========================================================================*/
 .hero { position:relative; height:475px; display:table; width:100%; background-size:cover; background-repeat:no-repeat; background-position:50% 50%; background-attachment:scroll; }
-.hero__inner { position:relative; display:table-cell; vertical-align:middle; padding:35px 0; color:#000; z-index:2; text-align:center; }
+.hero__inner {position:relative;display:table-cell;vertical-align:middle;padding:35px 0;color: #000;z-index:2;text-align:center;z-index: 1;}
 .hero[data-stellar-background-ratio] { background-attachment:fixed; }
-.hero .text-small .mega-title { font-size:25px; font-family:Poppins,Helvetica,Tahoma,Arial,sans-serif; font-weight:700; }
-.hero .text-small .mega-subtitle { font-size:16px; margin-bottom:25px; }
+.hero .text-small .mega-title {font-size: 36px;font-family:Poppins,Helvetica,Tahoma,Arial,sans-serif;font-weight:700;}
+.hero .text-small .mega-subtitle {font-size: 23px;margin-bottom:25px;z-index: 12;position: relative;color: white;}
 @media only screen and (min-width:990px) {
-.hero__inner .wrap-text { max-width:500px; }
+.hero__inner .wrap-text {max-width:500px;z-index: 0;position: relative;}
 }
 .hero--large { height:650px; }
 .hero .text-large .mega-title { font-size:45px; }
 .hero__inner .center { text-align:center; margin:0 auto; }
 .hero .text-large .mega-subtitle { font-size:20px; }
 .hero .mega-subtitle { margin-bottom:25px; }
-.hero .font-bold .mega-title { font-weight:700; }
+.hero .font-bold .mega-title {font-weight:700;z-index: 1;position: relative;color: white;}
 .hero__inner .right { float:right; text-align:center; }
 .hero .text-medium .mega-title { font-size:35px; }
 .hero .text-medium .mega-subtitle { font-size:18px; }
@@ -1682,6 +1712,17 @@ body.home15-funiture-template { font-size:14px; }
 	right: 1%;
 	top: 2%;
 	opacity: 44%;
+	z-index: 0;
+}
+
+.textBlock3 {
+	background-color: #424242;
+	width: 109%;
+	height: 109%;
+	position: absolute;
+	right: -3%;
+	top: -2%;
+	opacity: 61%;
 	z-index: 0;
 }
 
