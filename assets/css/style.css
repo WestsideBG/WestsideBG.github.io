@@ -1718,10 +1718,10 @@ body.home15-funiture-template { font-size:14px; }
 .textBlock3 {
 	background-color: #424242;
 	width: 109%;
-	height: 109%;
+	height: 120%;
 	position: absolute;
 	right: -3%;
-	top: -2%;
+	top: -6%;
 	opacity: 61%;
 	z-index: 0;
 }
