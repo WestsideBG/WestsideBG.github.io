@@ -521,6 +521,12 @@
 	}
 }
 
+@media only screen and (min-width: 1446px) and (max-width: 1536px) { 
+	#siteNav > li > a {
+		padding: 1px 27px;
+	}
+}
+
 @media only screen and (max-width: 480px) {
 	.top-header .col-10 { padding-right:5px; }
 	.top-header .text-right { padding-left:5px; }
