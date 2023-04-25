@@ -56,10 +56,12 @@
                             {
                                 <ul class="customer-links list-inline">
                                     <li>
-                                        <a class="nav-link text-dark" asp-area="Identity" asp-page="/Account/Manage/Index" title="Manage">Профил</a>
+                                        <a class="nav-link text-dark" href="/profile" title="Manage">Профил</a>
                                     </li>
                                     <li>
-                                        <a class="nav-link text-dark" asp-area="Identity" asp-page="/Account/Logout" title="Logout">Изход</a>
+                                        <form class="nav-link text-dark" asp-area="Identity" asp-page="/Account/Logout" asp-route-returnUrl="@Url.Page("/", new { area = "" })" method="post">
+                                            <button class="nav-link text-dark logout"><p>Изход</p></button>
+                                        </form>
                                     </li>
                                     <li><a href="wishlist.html">Любими</a></li>
                                 </ul>
@@ -67,8 +69,8 @@
                             else
                             {
                                 <ul class="customer-links list-inline">
-                                    <li><a href="/Identity/Account/Login">Вход</a></li>
-                                    <li><a href="/Identity/Account/Register">Регистрация</a></li>
+                                    <li><a href="/login">Вход</a></li>
+                                    <li><a href="/register">Регистрация</a></li>
                                     <li><a href="wishlist.html">Любими</a></li>
                                 </ul>
                             }
@@ -102,7 +104,7 @@
                             <!-- for mobile -->
                             <ul id="siteNav" class="site-nav medium center hidearrow">
                                 <li class="lvl1 parent megamenu">
-                                    <a href="/Home/Index">Начало <i class="anm anm-angle-down-l"></i></a>
+                                    <a href="/index">Начало <i class="anm anm-angle-down-l"></i></a>
                                 </li>
                                 <li class="lvl1 parent dropdown">
                                     <a href="#">Мъже <i class="anm anm-angle-down-l"></i></a>

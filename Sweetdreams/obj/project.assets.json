@@ -10464,11 +10464,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\Sweetdreams.csproj",
+      "projectUniqueName": "C:\\Users\\Wests\\Desktop\\task-212\\WestsideBG.github.io\\Sweetdreams\\Sweetdreams.csproj",
       "projectName": "Sweetdreams",
-      "projectPath": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\Sweetdreams.csproj",
+      "projectPath": "C:\\Users\\Wests\\Desktop\\task-212\\WestsideBG.github.io\\Sweetdreams\\Sweetdreams.csproj",
       "packagesPath": "C:\\Users\\Wests\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\obj\\",
+      "outputPath": "C:\\Users\\Wests\\Desktop\\task-212\\WestsideBG.github.io\\Sweetdreams\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Wests\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,11 +13,12 @@ namespace Sweetdreams.Controllers
             _logger = logger;
         }
 
+        [Route("index")]
         public IActionResult Index()
         {
             return View();
         }
-
+        [Route("CustomPrivacy")]
         public IActionResult Privacy()
         {
             return View();
