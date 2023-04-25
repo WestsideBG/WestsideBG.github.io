@@ -1,8 +1,11 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.CodeAnalysis.CSharp.Syntax;
 using Microsoft.EntityFrameworkCore;
 using Sweetdreams.Data;
+using Sweetdreams.Models;
+using Sweetdreams.Models.Identity;
 using System.Collections;
 
 namespace Sweetdreams.Controllers
@@ -10,12 +13,14 @@ namespace Sweetdreams.Controllers
     public class UsersController : Controller
     {
         private readonly UserManager<ApplicationUser> _userManager;
+        private readonly RoleManager<ApplicationRole> _roleManager;
         private readonly ApplicationDbContext _dbContext;
 
-        public UsersController(UserManager<ApplicationUser> userManager, ApplicationDbContext dbContext)
+        public UsersController(UserManager<ApplicationUser> userManager, ApplicationDbContext dbContext, RoleManager<ApplicationRole> roleManager)
         {
             _userManager = userManager;
             _dbContext = dbContext;
+            _roleManager = roleManager;
         }
         // GET: UsersController
         public async Task<IActionResult> Index()
@@ -136,9 +141,102 @@ namespace Sweetdreams.Controllers
             return RedirectToAction(nameof(Index));
         }
 
+
+        public async Task<IActionResult> AddRole(string id)
+        {
+            if (id == null || _dbContext.Users == null)
+            {
+                return NotFound();
+            }
+
+
+            var user = await _dbContext.Users.FindAsync(id);
+            var roles = await _userManager.GetRolesAsync(user);
+            var viewModel = new AddRoleViewModel(roles, user);
+
+            if (user == null)
+            {
+                return NotFound();
+            }
+
+            return View(viewModel);
+        }
+
+        [HttpPost, ActionName("AddRole")]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> AddRole(string id, [Bind("Name")] ApplicationRole role)
+        {
+            if (id == null || _dbContext.Users == null)
+            {
+                return NotFound();
+            }
+
+
+            var user = await _dbContext.Users.FindAsync(id);
+            if (user == null)
+            {
+                return NotFound();
+            }
+
+            if (!ApplicationRoleExists(role.Name))
+            {
+                role.NormalizedName = role.Name.ToUpper();
+                _dbContext.Add(role);
+                await _dbContext.SaveChangesAsync();
+            }
+
+            var result = await _userManager.AddToRoleAsync(user, role.Name);
+            if (result.Succeeded)
+            {
+                var roles = await _userManager.GetRolesAsync(user);
+                var viewModel = new AddRoleViewModel(roles, user);
+                return View(viewModel);
+            } else
+            {
+                throw new InvalidOperationException();
+            }
+            
+        }
+
+        [HttpGet]
+        public async Task<IActionResult> RemoveRole(string parameters)
+        {
+            var id = parameters.Split(",")[0];
+            var roleName = parameters.Split(",")[1];
+
+            if (id == null || _dbContext.Users == null)
+            {
+                return NotFound();
+            }
+
+            var user = await _dbContext.Users.FindAsync(id);
+            var roles = await _userManager.GetRolesAsync(user);
+            var result = await _userManager.RemoveFromRoleAsync(user, roleName);
+
+            if (result.Succeeded)
+            {
+                var viewModel = new AddRoleViewModel(roles, user);
+                if (user == null)
+                {
+                    return NotFound();
+                }
+
+                return RedirectToAction("Index");
+            }
+            else
+            {
+                throw new InvalidOperationException();
+            }
+        }
+
         private bool ApplicationUserExists(string id)
         {
             return (_dbContext.Users?.Any(e => e.Id == id)).GetValueOrDefault();
+        }
+
+        private bool ApplicationRoleExists(string roleName)
+        {
+            return (_dbContext.Roles?.Any(e => e.Name == roleName)).GetValueOrDefault();
         }
     }
 }

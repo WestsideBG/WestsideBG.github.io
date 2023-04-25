@@ -558,3 +558,4 @@ C:\Users\Wests\Desktop\task-212\WestsideBG.github.io\Sweetdreams\obj\Debug\net6.
 C:\Users\Wests\Desktop\task-212\WestsideBG.github.io\Sweetdreams\obj\Debug\net6.0\Sweetdreams.pdb
 C:\Users\Wests\Desktop\task-212\WestsideBG.github.io\Sweetdreams\obj\Debug\net6.0\Sweetdreams.genruntimeconfig.cache
 C:\Users\Wests\Desktop\task-212\WestsideBG.github.io\Sweetdreams\obj\Debug\net6.0\ref\Sweetdreams.dll
+C:\Users\Wests\Desktop\task-212\WestsideBG.github.io\Sweetdreams\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Facebook.dll

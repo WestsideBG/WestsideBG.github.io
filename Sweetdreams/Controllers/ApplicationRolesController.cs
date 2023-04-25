@@ -60,6 +60,7 @@ namespace Sweetdreams.Controllers
         {
             if (ModelState.IsValid)
             {
+                applicationRole.NormalizedName = applicationRole.Name.ToUpper();
                 _context.Add(applicationRole);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));

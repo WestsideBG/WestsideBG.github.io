@@ -1,4 +1,5 @@
 using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Sweetdreams.Data;
 using Sweetdreams.Models.Identity;
@@ -30,6 +31,18 @@ builder.Services.AddIdentity<ApplicationUser, ApplicationRole>(options =>
 
 builder.Services.AddRazorPages();
 builder.Services.AddControllersWithViews();
+builder.Services.Configure<MvcOptions>(options =>
+{
+    options.Filters.Add(new RequireHttpsAttribute());
+});
+
+builder.Services.AddAuthentication()
+    .AddFacebook(options =>
+{
+    options.AppId = "563982825836379";
+    options.AppSecret = "f8b9b947efe27782df75f89faedd6451";
+
+});
 
 var app = builder.Build();
 
@@ -49,6 +62,7 @@ app.UseHttpsRedirection();
 app.UseStaticFiles();
 
 app.UseRouting();
+
 
 app.UseAuthentication();
 app.UseAuthorization();
