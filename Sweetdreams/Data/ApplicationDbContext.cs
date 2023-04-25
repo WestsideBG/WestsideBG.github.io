@@ -10,5 +10,13 @@ namespace Sweetdreams.Data
             : base(options)
         {
         }
+
+        protected override void OnModelCreating(ModelBuilder builder)
+        {
+            builder.Entity<ApplicationUser>().HasKey(u => u.Id);
+            builder.Entity<ApplicationUser>().HasIndex(u => new { u.UserName, u.Email }).IsUnique();
+
+            base.OnModelCreating(builder);
+        }
     }
 }

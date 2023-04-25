@@ -1,4 +1,8 @@
-﻿<!DOCTYPE html>
+﻿@using Microsoft.AspNetCore.Identity
+@inject SignInManager<ApplicationUser> SignInManager
+@inject UserManager<ApplicationUser> UserManager
+
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -48,12 +52,26 @@
                         <div class="col-2 col-sm-4 col-md-3 col-lg-4 text-right">
 
                             <span class="user-menu d-block d-lg-none"><i class="anm anm-user-al" aria-hidden="true"></i></span>
-
-                            <ul class="customer-links list-inline">
-                                <li><a href="/Identity/Account/Login">Вход</a></li>
-                                <li><a href="/Identity/Account/Register">Регистрация</a></li>
-                                <li><a href="wishlist.html">Любими</a></li>
-                            </ul>
+                            @if (SignInManager.IsSignedIn(User))
+                            {
+                                <ul class="customer-links list-inline">
+                                    <li>
+                                        <a class="nav-link text-dark" asp-area="Identity" asp-page="/Account/Manage/Index" title="Manage">Профил</a>
+                                    </li>
+                                    <li>
+                                        <a class="nav-link text-dark" asp-area="Identity" asp-page="/Account/Logout" title="Logout">Изход</a>
+                                    </li>
+                                    <li><a href="wishlist.html">Любими</a></li>
+                                </ul>
+                            }
+                            else
+                            {
+                                <ul class="customer-links list-inline">
+                                    <li><a href="/Identity/Account/Login">Вход</a></li>
+                                    <li><a href="/Identity/Account/Register">Регистрация</a></li>
+                                    <li><a href="wishlist.html">Любими</a></li>
+                                </ul>
+                            }
                         </div>
                     </div>
                 </div>

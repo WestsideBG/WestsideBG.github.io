@@ -244,7 +244,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder { opacity:1; -ms-fil
 
 .top-header { color:#fff; padding-top:8px; padding-bottom:10px; background:#141414; height:38px; }
 .top-header a { color:#fff; }
-.top-header p, .top-header a, .top-header select, .top-header .fa, .top-header span.selected-currency, .top-header .language-dd { color:#ffffff; font-size:12px; margin-bottom:0; text-decoration:none; letter-spacing:0.05em; vertical-align:middle; text-transform:uppercase; line-height:normal; }
+.top-header p, .top-header a, .top-header select, .top-header .fa, .top-header span.selected-currency, .top-header .language-dd { color:#ffffff; font-size:12px; margin-bottom:0; text-decoration:none; letter-spacing:0.05em; vertical-align:middle; line-height:normal; }
 .top-header a:hover { text-decoration:underline; }
 .top-header .phone-no, .top-header .welcome-msg { display:inline; }
 .top-header .phone-no .anm { vertical-align:middle; }

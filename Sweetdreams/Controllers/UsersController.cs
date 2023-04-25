@@ -1,6 +1,8 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+using Sweetdreams.Data;
 using System.Collections;
 
 namespace Sweetdreams.Controllers
@@ -8,85 +10,135 @@ namespace Sweetdreams.Controllers
     public class UsersController : Controller
     {
         private readonly UserManager<ApplicationUser> _userManager;
+        private readonly ApplicationDbContext _dbContext;
 
-        public UsersController(UserManager<ApplicationUser> userManager)
+        public UsersController(UserManager<ApplicationUser> userManager, ApplicationDbContext dbContext)
         {
             _userManager = userManager;
+            _dbContext = dbContext;
         }
         // GET: UsersController
-        public ActionResult Index()
+        public async Task<IActionResult> Index()
         {
-            var users = (IEnumerable<ApplicationUser>)_userManager.Users;
-            return View(users);
+            return _dbContext.Users != null ?
+                        View(await _dbContext.Users.ToListAsync()) :
+                        Problem("Entity set 'ApplicationDbContext.Roles'  is null.");
         }
 
         // GET: UsersController/Details/5
-        public ActionResult Details(int id)
+        public async Task<IActionResult> Details(string id)
         {
-            return View();
+            if (id == null || _dbContext.Users == null)
+            {
+                return NotFound();
+            }
+
+            var user = await _dbContext.Users
+                .FirstOrDefaultAsync(u => u.Id == id);
+            if (user == null)
+            {
+                return NotFound();
+            }
+
+            return View(user);
         }
 
-        // GET: UsersController/Create
-        public ActionResult Create()
+        public async Task<IActionResult> Edit(string id)
         {
-            return View();
+            if (id == null || _dbContext.Users == null)
+            {
+                return NotFound();
+            }
+
+            var user = await _dbContext.Users.FindAsync(id);
+            if (user == null)
+            {
+                return NotFound();
+            }
+            return View(user);
         }
 
-        // POST: UsersController/Create
+        // To protect from overposting attacks, enable the specific properties you want to bind to.
+        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create(IFormCollection collection)
+        public async Task<IActionResult> Edit(string id, [Bind("Id,UserName,Email,PhoneNumber")] ApplicationUser user)
         {
-            try
+            if (id != user.Id)
             {
+                return NotFound();
+            }
+
+            if (ModelState.IsValid)
+            {
+                try
+                {
+                    var dbuser = _dbContext.Users.FirstOrDefault(u => u.Id == user.Id);
+                    if (!ApplicationUserExists(dbuser.Id))
+                    {
+                        return NotFound();
+                    }
+                    dbuser.UserName = user.UserName;
+                    dbuser.PhoneNumber = user.PhoneNumber;
+                    dbuser.Email = user.Email;
+                    await _dbContext.SaveChangesAsync();
+                }
+                catch (DbUpdateConcurrencyException)
+                {
+                    if (!ApplicationUserExists(user.Id))
+                    {
+                        return NotFound();
+                    }
+                    else
+                    {
+                        throw;
+                    }
+                }
                 return RedirectToAction(nameof(Index));
             }
-            catch
-            {
-                return View();
-            }
+            return View(user);
         }
 
-        // GET: UsersController/Edit/5
-        public ActionResult Edit(int id)
+        // GET: ApplicationRoles/Delete/5
+        public async Task<IActionResult> Delete(string id)
         {
-            return View();
+            if (id == null || _dbContext.Users == null)
+            {
+                return NotFound();
+            }
+
+            var user = await _dbContext.Users
+                .FirstOrDefaultAsync(m => m.Id == id);
+            if (user == null)
+            {
+                return NotFound();
+            }
+
+            return View(user);
         }
 
-        // POST: UsersController/Edit/5
-        [HttpPost]
+        // POST: ApplicationRoles/Delete/5
+        [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
-        public ActionResult Edit(int id, IFormCollection collection)
+        public async Task<IActionResult> DeleteConfirmed(string id)
         {
-            try
+            if (_dbContext.Users == null)
             {
-                return RedirectToAction(nameof(Index));
+                return Problem("Entity set 'ApplicationDbContext.Users'  is null.");
             }
-            catch
+            var applicationRole = await _dbContext.Users.FindAsync(id);
+            if (applicationRole != null)
             {
-                return View();
+                _dbContext.Users.Remove(applicationRole);
             }
+
+            await _dbContext.SaveChangesAsync();
+            return RedirectToAction(nameof(Index));
         }
 
-        // GET: UsersController/Delete/5
-        public ActionResult Delete(int id)
+        private bool ApplicationUserExists(string id)
         {
-            return View();
-        }
-
-        // POST: UsersController/Delete/5
-        [HttpPost]
-        [ValidateAntiForgeryToken]
-        public ActionResult Delete(int id, IFormCollection collection)
-        {
-            try
-            {
-                return RedirectToAction(nameof(Index));
-            }
-            catch
-            {
-                return View();
-            }
+            return (_dbContext.Users?.Any(e => e.Id == id)).GetValueOrDefault();
         }
     }
 }

@@ -20,6 +20,7 @@ builder.Services.AddIdentity<ApplicationUser, ApplicationRole>(options =>
     options.Password.RequireLowercase = false;
     options.Password.RequireUppercase = false;
     options.SignIn.RequireConfirmedAccount = false;
+    options.User.RequireUniqueEmail = true;
 })
     .AddDefaultTokenProviders()
     .AddDefaultUI()
