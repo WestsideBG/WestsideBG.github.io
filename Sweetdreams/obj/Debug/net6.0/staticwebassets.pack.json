@@ -1,0 +1,2193 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Sweetdreams.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Sweetdreams.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\css\\plugins.css",
+      "PackagePath": "staticwebassets\\css\\plugins.css"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\fonts\\annimex-icons0f29.eot",
+      "PackagePath": "staticwebassets\\fonts\\annimex-icons0f29.eot"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\fonts\\annimex-icons0f29.svg",
+      "PackagePath": "staticwebassets\\fonts\\annimex-icons0f29.svg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\fonts\\annimex-icons0f29.ttf",
+      "PackagePath": "staticwebassets\\fonts\\annimex-icons0f29.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\fonts\\annimex-icons0f29.woff",
+      "PackagePath": "staticwebassets\\fonts\\annimex-icons0f29.woff"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\fonts\\fontawesome-webfont3e6e.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont3e6e.eot"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\fonts\\fontawesome-webfont3e6e.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont3e6e.svg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\fonts\\fontawesome-webfont3e6e.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont3e6e.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\fonts\\fontawesome-webfont3e6e.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont3e6e.woff"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\fonts\\fontawesome-webfont3e6e.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont3e6e.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\fonts\\fontawesome-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfontd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\fonts\\themify9f24.eot",
+      "PackagePath": "staticwebassets\\fonts\\themify9f24.eot"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\fonts\\themify9f24.svg",
+      "PackagePath": "staticwebassets\\fonts\\themify9f24.svg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\fonts\\themify9f24.ttf",
+      "PackagePath": "staticwebassets\\fonts\\themify9f24.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\fonts\\themify9f24.woff",
+      "PackagePath": "staticwebassets\\fonts\\themify9f24.woff"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\fonts\\themifyd41d.eot",
+      "PackagePath": "staticwebassets\\fonts\\themifyd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\about1.jpg",
+      "PackagePath": "staticwebassets\\images\\about1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\about2.jpg",
+      "PackagePath": "staticwebassets\\images\\about2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\about3.jpg",
+      "PackagePath": "staticwebassets\\images\\about3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\images\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\apple-touch-icon-114x114.png",
+      "PackagePath": "staticwebassets\\images\\apple-touch-icon-114x114.png"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\apple-touch-icon-57x57.png",
+      "PackagePath": "staticwebassets\\images\\apple-touch-icon-57x57.png"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\apple-touch-icon-72x72.png",
+      "PackagePath": "staticwebassets\\images\\apple-touch-icon-72x72.png"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\arrow-select.png",
+      "PackagePath": "staticwebassets\\images\\arrow-select.png"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\autoparts\\categories-img1.jpg",
+      "PackagePath": "staticwebassets\\images\\autoparts\\categories-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\autoparts\\categories-img2.jpg",
+      "PackagePath": "staticwebassets\\images\\autoparts\\categories-img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\autoparts\\categories-img3.jpg",
+      "PackagePath": "staticwebassets\\images\\autoparts\\categories-img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\autoparts\\categories-img4.jpg",
+      "PackagePath": "staticwebassets\\images\\autoparts\\categories-img4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\autoparts\\categories-img5.jpg",
+      "PackagePath": "staticwebassets\\images\\autoparts\\categories-img5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\autoparts\\categories-img6.jpg",
+      "PackagePath": "staticwebassets\\images\\autoparts\\categories-img6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\autoparts\\categories-img7.jpg",
+      "PackagePath": "staticwebassets\\images\\autoparts\\categories-img7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\autoparts\\categories-img8.jpg",
+      "PackagePath": "staticwebassets\\images\\autoparts\\categories-img8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\bg\\beddingWPslide.jpg",
+      "PackagePath": "staticwebassets\\images\\bg\\beddingWPslide.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\bg\\beddingWPslidedef.jpg",
+      "PackagePath": "staticwebassets\\images\\bg\\beddingWPslidedef.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\bg\\bg-2.jpg",
+      "PackagePath": "staticwebassets\\images\\bg\\bg-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\bg\\bg-3.jpg",
+      "PackagePath": "staticwebassets\\images\\bg\\bg-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\bg\\bg-34.jpg",
+      "PackagePath": "staticwebassets\\images\\bg\\bg-34.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\bg\\bg-4.jpg",
+      "PackagePath": "staticwebassets\\images\\bg\\bg-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\bg\\bg-45.jpg",
+      "PackagePath": "staticwebassets\\images\\bg\\bg-45.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\bg\\bg-5.jpg",
+      "PackagePath": "staticwebassets\\images\\bg\\bg-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\bg\\bg-55.jpg",
+      "PackagePath": "staticwebassets\\images\\bg\\bg-55.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\blog\\blog-post-1.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-post-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\blog\\blog-post-2.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-post-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\blog\\blog-post-3.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-post-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\blog\\blog-post-4.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-post-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\blog\\blog-post-5.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-post-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\blog\\blog-post-6.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-post-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\blog\\blog-post-7.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-post-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\blog\\blog-post-sml-1.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-post-sml-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\blog\\blog-post-sml-2.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-post-sml-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\blog\\blog-post-sml-3.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-post-sml-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\blog\\blog-post-sml-4.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-post-sml-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\blog\\post-img1.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\post-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\blog\\post-img2.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\post-img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\cards.jpg",
+      "PackagePath": "staticwebassets\\images\\cards.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\cat-men.jpg",
+      "PackagePath": "staticwebassets\\images\\cat-men.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\cat-women.jpg",
+      "PackagePath": "staticwebassets\\images\\cat-women.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\cat-women1.jpg",
+      "PackagePath": "staticwebassets\\images\\cat-women1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\cat-women2.jpg",
+      "PackagePath": "staticwebassets\\images\\cat-women2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\cat-women3.jpg",
+      "PackagePath": "staticwebassets\\images\\cat-women3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\check.png",
+      "PackagePath": "staticwebassets\\images\\check.png"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\collection\\accessories.jpg",
+      "PackagePath": "staticwebassets\\images\\collection\\accessories.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\collection\\bag.jpg",
+      "PackagePath": "staticwebassets\\images\\collection\\bag.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\collection\\collection-page1.jpg",
+      "PackagePath": "staticwebassets\\images\\collection\\collection-page1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\collection\\collection-page2.jpg",
+      "PackagePath": "staticwebassets\\images\\collection\\collection-page2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\collection\\collection-page3.jpg",
+      "PackagePath": "staticwebassets\\images\\collection\\collection-page3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\collection\\collection-page4.jpg",
+      "PackagePath": "staticwebassets\\images\\collection\\collection-page4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\collection\\collection-page5.jpg",
+      "PackagePath": "staticwebassets\\images\\collection\\collection-page5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\collection\\collection-page6.jpg",
+      "PackagePath": "staticwebassets\\images\\collection\\collection-page6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\collection\\collection-page7.jpg",
+      "PackagePath": "staticwebassets\\images\\collection\\collection-page7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\collection\\collection-page8.jpg",
+      "PackagePath": "staticwebassets\\images\\collection\\collection-page8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\collection\\collection1.jpg",
+      "PackagePath": "staticwebassets\\images\\collection\\collection1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\collection\\collection2.jpg",
+      "PackagePath": "staticwebassets\\images\\collection\\collection2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\collection\\collection3.jpg",
+      "PackagePath": "staticwebassets\\images\\collection\\collection3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\collection\\collection4.jpg",
+      "PackagePath": "staticwebassets\\images\\collection\\collection4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\collection\\cosmetic.jpg",
+      "PackagePath": "staticwebassets\\images\\collection\\cosmetic.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\collection\\cosmetic1.jpg",
+      "PackagePath": "staticwebassets\\images\\collection\\cosmetic1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\collection\\cosmetic2.jpg",
+      "PackagePath": "staticwebassets\\images\\collection\\cosmetic2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\collection\\cosmetic3.jpg",
+      "PackagePath": "staticwebassets\\images\\collection\\cosmetic3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\collection\\fashion.jpg",
+      "PackagePath": "staticwebassets\\images\\collection\\fashion.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\collection\\home10-sm-banner1.jpg",
+      "PackagePath": "staticwebassets\\images\\collection\\home10-sm-banner1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\collection\\home10-sm-banner2.jpg",
+      "PackagePath": "staticwebassets\\images\\collection\\home10-sm-banner2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\collection\\home10-sm-banner3.jpg",
+      "PackagePath": "staticwebassets\\images\\collection\\home10-sm-banner3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\collection\\home10-sm-banner4.jpg",
+      "PackagePath": "staticwebassets\\images\\collection\\home10-sm-banner4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\collection\\home11-grid-sm-banner1.jpg",
+      "PackagePath": "staticwebassets\\images\\collection\\home11-grid-sm-banner1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\collection\\home11-grid-sm-banner10.jpg",
+      "PackagePath": "staticwebassets\\images\\collection\\home11-grid-sm-banner10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\collection\\home11-grid-sm-banner2.jpg",
+      "PackagePath": "staticwebassets\\images\\collection\\home11-grid-sm-banner2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\collection\\home11-grid-sm-banner3.jpg",
+      "PackagePath": "staticwebassets\\images\\collection\\home11-grid-sm-banner3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\collection\\home11-grid-sm-banner4.jpg",
+      "PackagePath": "staticwebassets\\images\\collection\\home11-grid-sm-banner4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\collection\\home11-grid-sm-banner5.jpg",
+      "PackagePath": "staticwebassets\\images\\collection\\home11-grid-sm-banner5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\collection\\home11-grid-sm-banner6.jpg",
+      "PackagePath": "staticwebassets\\images\\collection\\home11-grid-sm-banner6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\collection\\home11-grid-sm-banner7.jpg",
+      "PackagePath": "staticwebassets\\images\\collection\\home11-grid-sm-banner7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\collection\\home11-grid-sm-banner8.jpg",
+      "PackagePath": "staticwebassets\\images\\collection\\home11-grid-sm-banner8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\collection\\home11-grid-sm-banner9.jpg",
+      "PackagePath": "staticwebassets\\images\\collection\\home11-grid-sm-banner9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\collection\\home12-category-bnr1.jpg",
+      "PackagePath": "staticwebassets\\images\\collection\\home12-category-bnr1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\collection\\home12-category-bnr2.jpg",
+      "PackagePath": "staticwebassets\\images\\collection\\home12-category-bnr2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\collection\\home12-category-bnr3.jpg",
+      "PackagePath": "staticwebassets\\images\\collection\\home12-category-bnr3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\collection\\home13-autoparts1.jpg",
+      "PackagePath": "staticwebassets\\images\\collection\\home13-autoparts1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\collection\\home13-autoparts2.jpg",
+      "PackagePath": "staticwebassets\\images\\collection\\home13-autoparts2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\collection\\home13-autoparts3.jpg",
+      "PackagePath": "staticwebassets\\images\\collection\\home13-autoparts3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\collection\\home13-autoparts4.jpg",
+      "PackagePath": "staticwebassets\\images\\collection\\home13-autoparts4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\collection\\home13-autoparts5.jpg",
+      "PackagePath": "staticwebassets\\images\\collection\\home13-autoparts5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\collection\\home13-autoparts6.jpg",
+      "PackagePath": "staticwebassets\\images\\collection\\home13-autoparts6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\collection\\home14-bags-sm-banner1.jpg",
+      "PackagePath": "staticwebassets\\images\\collection\\home14-bags-sm-banner1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\collection\\home14-bags-sm-banner2.jpg",
+      "PackagePath": "staticwebassets\\images\\collection\\home14-bags-sm-banner2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\collection\\home14-bags-sm-banner3.jpg",
+      "PackagePath": "staticwebassets\\images\\collection\\home14-bags-sm-banner3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\collection\\home14-bags-sm-banner4.jpg",
+      "PackagePath": "staticwebassets\\images\\collection\\home14-bags-sm-banner4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\collection\\home14-bags-sm-banner5.jpg",
+      "PackagePath": "staticwebassets\\images\\collection\\home14-bags-sm-banner5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\collection\\home15-lookbook1.jpg",
+      "PackagePath": "staticwebassets\\images\\collection\\home15-lookbook1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\collection\\home15-lookbook2.jpg",
+      "PackagePath": "staticwebassets\\images\\collection\\home15-lookbook2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\collection\\image-banner-home15-1.jpg",
+      "PackagePath": "staticwebassets\\images\\collection\\image-banner-home15-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\collection\\image-banner-home15-2.jpg",
+      "PackagePath": "staticwebassets\\images\\collection\\image-banner-home15-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\collection\\image-banner-home15-3.jpg",
+      "PackagePath": "staticwebassets\\images\\collection\\image-banner-home15-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\collection\\image-banner-home15-4.jpg",
+      "PackagePath": "staticwebassets\\images\\collection\\image-banner-home15-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\collection\\image-banner-home15-5.jpg",
+      "PackagePath": "staticwebassets\\images\\collection\\image-banner-home15-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\collection\\jewellery-collection1.jpg",
+      "PackagePath": "staticwebassets\\images\\collection\\jewellery-collection1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\collection\\jewellery-collection2.jpg",
+      "PackagePath": "staticwebassets\\images\\collection\\jewellery-collection2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\collection\\jewellery-collection3.jpg",
+      "PackagePath": "staticwebassets\\images\\collection\\jewellery-collection3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\collection\\jewellery-collection4.jpg",
+      "PackagePath": "staticwebassets\\images\\collection\\jewellery-collection4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\collection\\jewellery-collection5.jpg",
+      "PackagePath": "staticwebassets\\images\\collection\\jewellery-collection5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\collection\\jewellery-collection6.jpg",
+      "PackagePath": "staticwebassets\\images\\collection\\jewellery-collection6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\collection\\jewellry.jpg",
+      "PackagePath": "staticwebassets\\images\\collection\\jewellry.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\collection\\modern-fi-1.jpg",
+      "PackagePath": "staticwebassets\\images\\collection\\modern-fi-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\collection\\modern-fi-2.jpg",
+      "PackagePath": "staticwebassets\\images\\collection\\modern-fi-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\collection\\modern-fi-3.jpg",
+      "PackagePath": "staticwebassets\\images\\collection\\modern-fi-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\collection\\modern1.jpg",
+      "PackagePath": "staticwebassets\\images\\collection\\modern1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\collection\\modern2.jpg",
+      "PackagePath": "staticwebassets\\images\\collection\\modern2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\collection\\modern3.jpg",
+      "PackagePath": "staticwebassets\\images\\collection\\modern3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\collection\\modern4.jpg",
+      "PackagePath": "staticwebassets\\images\\collection\\modern4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\collection\\modern5.jpg",
+      "PackagePath": "staticwebassets\\images\\collection\\modern5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\collection\\shoes-collection1.jpg",
+      "PackagePath": "staticwebassets\\images\\collection\\shoes-collection1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\collection\\shoes-collection2.jpg",
+      "PackagePath": "staticwebassets\\images\\collection\\shoes-collection2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\collection\\shoes-collection3.jpg",
+      "PackagePath": "staticwebassets\\images\\collection\\shoes-collection3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\collection\\shoes.jpg",
+      "PackagePath": "staticwebassets\\images\\collection\\shoes.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\coming-soon.jpg",
+      "PackagePath": "staticwebassets\\images\\coming-soon.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\cosmetic-product\\product-image1-1.jpg",
+      "PackagePath": "staticwebassets\\images\\cosmetic-product\\product-image1-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\cosmetic-product\\product-image1.jpg",
+      "PackagePath": "staticwebassets\\images\\cosmetic-product\\product-image1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\cosmetic-product\\product-image10-1.jpg",
+      "PackagePath": "staticwebassets\\images\\cosmetic-product\\product-image10-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\cosmetic-product\\product-image10.jpg",
+      "PackagePath": "staticwebassets\\images\\cosmetic-product\\product-image10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\cosmetic-product\\product-image11-1.jpg",
+      "PackagePath": "staticwebassets\\images\\cosmetic-product\\product-image11-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\cosmetic-product\\product-image11.jpg",
+      "PackagePath": "staticwebassets\\images\\cosmetic-product\\product-image11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\cosmetic-product\\product-image12-1.jpg",
+      "PackagePath": "staticwebassets\\images\\cosmetic-product\\product-image12-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\cosmetic-product\\product-image12.jpg",
+      "PackagePath": "staticwebassets\\images\\cosmetic-product\\product-image12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\cosmetic-product\\product-image13-1.jpg",
+      "PackagePath": "staticwebassets\\images\\cosmetic-product\\product-image13-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\cosmetic-product\\product-image13.jpg",
+      "PackagePath": "staticwebassets\\images\\cosmetic-product\\product-image13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\cosmetic-product\\product-image14-1.jpg",
+      "PackagePath": "staticwebassets\\images\\cosmetic-product\\product-image14-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\cosmetic-product\\product-image14.jpg",
+      "PackagePath": "staticwebassets\\images\\cosmetic-product\\product-image14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\cosmetic-product\\product-image15-1.jpg",
+      "PackagePath": "staticwebassets\\images\\cosmetic-product\\product-image15-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\cosmetic-product\\product-image15.jpg",
+      "PackagePath": "staticwebassets\\images\\cosmetic-product\\product-image15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\cosmetic-product\\product-image2-1.jpg",
+      "PackagePath": "staticwebassets\\images\\cosmetic-product\\product-image2-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\cosmetic-product\\product-image2.jpg",
+      "PackagePath": "staticwebassets\\images\\cosmetic-product\\product-image2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\cosmetic-product\\product-image3-1.jpg",
+      "PackagePath": "staticwebassets\\images\\cosmetic-product\\product-image3-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\cosmetic-product\\product-image3.jpg",
+      "PackagePath": "staticwebassets\\images\\cosmetic-product\\product-image3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\cosmetic-product\\product-image4-1.jpg",
+      "PackagePath": "staticwebassets\\images\\cosmetic-product\\product-image4-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\cosmetic-product\\product-image4.jpg",
+      "PackagePath": "staticwebassets\\images\\cosmetic-product\\product-image4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\cosmetic-product\\product-image5-1.jpg",
+      "PackagePath": "staticwebassets\\images\\cosmetic-product\\product-image5-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\cosmetic-product\\product-image5.jpg",
+      "PackagePath": "staticwebassets\\images\\cosmetic-product\\product-image5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\cosmetic-product\\product-image6-1.jpg",
+      "PackagePath": "staticwebassets\\images\\cosmetic-product\\product-image6-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\cosmetic-product\\product-image6.jpg",
+      "PackagePath": "staticwebassets\\images\\cosmetic-product\\product-image6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\cosmetic-product\\product-image7-1.jpg",
+      "PackagePath": "staticwebassets\\images\\cosmetic-product\\product-image7-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\cosmetic-product\\product-image7.jpg",
+      "PackagePath": "staticwebassets\\images\\cosmetic-product\\product-image7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\cosmetic-product\\product-image8-1.jpg",
+      "PackagePath": "staticwebassets\\images\\cosmetic-product\\product-image8-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\cosmetic-product\\product-image8.jpg",
+      "PackagePath": "staticwebassets\\images\\cosmetic-product\\product-image8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\cosmetic-product\\product-image9-1.jpg",
+      "PackagePath": "staticwebassets\\images\\cosmetic-product\\product-image9-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\cosmetic-product\\product-image9.jpg",
+      "PackagePath": "staticwebassets\\images\\cosmetic-product\\product-image9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\cosmetic-product\\single-product.jpg",
+      "PackagePath": "staticwebassets\\images\\cosmetic-product\\single-product.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\credit-card.png",
+      "PackagePath": "staticwebassets\\images\\credit-card.png"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\default-skin.png",
+      "PackagePath": "staticwebassets\\images\\default-skin.png"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\diffrent-style-swatches.jpg",
+      "PackagePath": "staticwebassets\\images\\diffrent-style-swatches.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\dollar.png",
+      "PackagePath": "staticwebassets\\images\\dollar.png"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\fast-fashion_600x.jpg",
+      "PackagePath": "staticwebassets\\images\\fast-fashion_600x.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\grid.jpg",
+      "PackagePath": "staticwebassets\\images\\grid.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\home3-small-banner1.jpg",
+      "PackagePath": "staticwebassets\\images\\home3-small-banner1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\home3-small-banner2.jpg",
+      "PackagePath": "staticwebassets\\images\\home3-small-banner2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\home3-small-banner3.jpg",
+      "PackagePath": "staticwebassets\\images\\home3-small-banner3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\jewellery-products\\jewellery-products1-1.jpg",
+      "PackagePath": "staticwebassets\\images\\jewellery-products\\jewellery-products1-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\jewellery-products\\jewellery-products1.jpg",
+      "PackagePath": "staticwebassets\\images\\jewellery-products\\jewellery-products1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\jewellery-products\\jewellery-products2-1.jpg",
+      "PackagePath": "staticwebassets\\images\\jewellery-products\\jewellery-products2-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\jewellery-products\\jewellery-products2.jpg",
+      "PackagePath": "staticwebassets\\images\\jewellery-products\\jewellery-products2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\jewellery-products\\jewellery-products3-1.jpg",
+      "PackagePath": "staticwebassets\\images\\jewellery-products\\jewellery-products3-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\jewellery-products\\jewellery-products3.jpg",
+      "PackagePath": "staticwebassets\\images\\jewellery-products\\jewellery-products3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\jewellery-products\\jewellery-products4-1.jpg",
+      "PackagePath": "staticwebassets\\images\\jewellery-products\\jewellery-products4-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\jewellery-products\\jewellery-products4.jpg",
+      "PackagePath": "staticwebassets\\images\\jewellery-products\\jewellery-products4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\jewellery-products\\jewellery-products5-1.jpg",
+      "PackagePath": "staticwebassets\\images\\jewellery-products\\jewellery-products5-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\jewellery-products\\jewellery-products5.jpg",
+      "PackagePath": "staticwebassets\\images\\jewellery-products\\jewellery-products5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\jewellery-products\\jewellery-products6-1.jpg",
+      "PackagePath": "staticwebassets\\images\\jewellery-products\\jewellery-products6-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\jewellery-products\\jewellery-products6.jpg",
+      "PackagePath": "staticwebassets\\images\\jewellery-products\\jewellery-products6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\list.jpg",
+      "PackagePath": "staticwebassets\\images\\list.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\loader.gif",
+      "PackagePath": "staticwebassets\\images\\loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\lock.png",
+      "PackagePath": "staticwebassets\\images\\lock.png"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\logo-text.svg",
+      "PackagePath": "staticwebassets\\images\\logo-text.svg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\images\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\logo\\brandlogo1.png",
+      "PackagePath": "staticwebassets\\images\\logo\\brandlogo1.png"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\logo\\brandlogo2.png",
+      "PackagePath": "staticwebassets\\images\\logo\\brandlogo2.png"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\logo\\brandlogo3.png",
+      "PackagePath": "staticwebassets\\images\\logo\\brandlogo3.png"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\logo\\brandlogo4.png",
+      "PackagePath": "staticwebassets\\images\\logo\\brandlogo4.png"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\logo\\brandlogo5.png",
+      "PackagePath": "staticwebassets\\images\\logo\\brandlogo5.png"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\logo\\brandlogo6.png",
+      "PackagePath": "staticwebassets\\images\\logo\\brandlogo6.png"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\lookbook-10.jpg",
+      "PackagePath": "staticwebassets\\images\\lookbook-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\lookbook-11.jpg",
+      "PackagePath": "staticwebassets\\images\\lookbook-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\lookbook-2.jpg",
+      "PackagePath": "staticwebassets\\images\\lookbook-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\lookbook-3.jpg",
+      "PackagePath": "staticwebassets\\images\\lookbook-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\lookbook-4.jpg",
+      "PackagePath": "staticwebassets\\images\\lookbook-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\lookbook-5.jpg",
+      "PackagePath": "staticwebassets\\images\\lookbook-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\lookbook-6.jpg",
+      "PackagePath": "staticwebassets\\images\\lookbook-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\lookbook-7.jpg",
+      "PackagePath": "staticwebassets\\images\\lookbook-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\lookbook-8.jpg",
+      "PackagePath": "staticwebassets\\images\\lookbook-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\lookbook-9.jpg",
+      "PackagePath": "staticwebassets\\images\\lookbook-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\megamenu-bg1.jpg",
+      "PackagePath": "staticwebassets\\images\\megamenu-bg1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\megamenu-bg2.jpg",
+      "PackagePath": "staticwebassets\\images\\megamenu-bg2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\menP.jpg",
+      "PackagePath": "staticwebassets\\images\\menP.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\newsletter-img.jpg",
+      "PackagePath": "staticwebassets\\images\\newsletter-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\order-icon.jpg",
+      "PackagePath": "staticwebassets\\images\\order-icon.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\parallax-banners\\cosmetic-parallax.jpg",
+      "PackagePath": "staticwebassets\\images\\parallax-banners\\cosmetic-parallax.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\parallax-banners\\home13-car-parts.jpg",
+      "PackagePath": "staticwebassets\\images\\parallax-banners\\home13-car-parts.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\parallax-banners\\home14-bags-parallax.jpg",
+      "PackagePath": "staticwebassets\\images\\parallax-banners\\home14-bags-parallax.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\parallax-banners\\home9-parallax-banner1.jpg",
+      "PackagePath": "staticwebassets\\images\\parallax-banners\\home9-parallax-banner1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\parallax-banners\\home9-parallax-banner2.jpg",
+      "PackagePath": "staticwebassets\\images\\parallax-banners\\home9-parallax-banner2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\parallax-banners\\home9-parallax-banner3.jpg",
+      "PackagePath": "staticwebassets\\images\\parallax-banners\\home9-parallax-banner3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\parallax-banners\\jewellery-parallax.jpg",
+      "PackagePath": "staticwebassets\\images\\parallax-banners\\jewellery-parallax.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\parallax-banners\\parallax-banner.jpg",
+      "PackagePath": "staticwebassets\\images\\parallax-banners\\parallax-banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\payment-img.jpg",
+      "PackagePath": "staticwebassets\\images\\payment-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\phone-call.png",
+      "PackagePath": "staticwebassets\\images\\phone-call.png"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-detail-page\\camelia-reversible-big1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-detail-page\\camelia-reversible-big1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-detail-page\\camelia-reversible-big10.jpg",
+      "PackagePath": "staticwebassets\\images\\product-detail-page\\camelia-reversible-big10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-detail-page\\camelia-reversible-big2.jpg",
+      "PackagePath": "staticwebassets\\images\\product-detail-page\\camelia-reversible-big2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-detail-page\\camelia-reversible-big3.jpg",
+      "PackagePath": "staticwebassets\\images\\product-detail-page\\camelia-reversible-big3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-detail-page\\camelia-reversible-big4.jpg",
+      "PackagePath": "staticwebassets\\images\\product-detail-page\\camelia-reversible-big4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-detail-page\\camelia-reversible-big5.jpg",
+      "PackagePath": "staticwebassets\\images\\product-detail-page\\camelia-reversible-big5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-detail-page\\camelia-reversible-big6.jpg",
+      "PackagePath": "staticwebassets\\images\\product-detail-page\\camelia-reversible-big6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-detail-page\\camelia-reversible-big7.jpg",
+      "PackagePath": "staticwebassets\\images\\product-detail-page\\camelia-reversible-big7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-detail-page\\camelia-reversible-big8.jpg",
+      "PackagePath": "staticwebassets\\images\\product-detail-page\\camelia-reversible-big8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-detail-page\\camelia-reversible-big9.jpg",
+      "PackagePath": "staticwebassets\\images\\product-detail-page\\camelia-reversible-big9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-detail-page\\camelia-reversible.jpg",
+      "PackagePath": "staticwebassets\\images\\product-detail-page\\camelia-reversible.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-detail-page\\camelia-reversible0.jpg",
+      "PackagePath": "staticwebassets\\images\\product-detail-page\\camelia-reversible0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-detail-page\\camelia-reversible1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-detail-page\\camelia-reversible1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-detail-page\\camelia-reversible2.jpg",
+      "PackagePath": "staticwebassets\\images\\product-detail-page\\camelia-reversible2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-detail-page\\camelia-reversible3.jpg",
+      "PackagePath": "staticwebassets\\images\\product-detail-page\\camelia-reversible3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-detail-page\\camelia-reversible4.jpg",
+      "PackagePath": "staticwebassets\\images\\product-detail-page\\camelia-reversible4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-detail-page\\camelia-reversible5.jpg",
+      "PackagePath": "staticwebassets\\images\\product-detail-page\\camelia-reversible5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-detail-page\\camelia-reversible6.jpg",
+      "PackagePath": "staticwebassets\\images\\product-detail-page\\camelia-reversible6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-detail-page\\camelia-reversible7-big.jpg",
+      "PackagePath": "staticwebassets\\images\\product-detail-page\\camelia-reversible7-big.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-detail-page\\camelia-reversible7.jpg",
+      "PackagePath": "staticwebassets\\images\\product-detail-page\\camelia-reversible7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-detail-page\\camelia-reversible8.jpg",
+      "PackagePath": "staticwebassets\\images\\product-detail-page\\camelia-reversible8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-detail-page\\camelia-reversible9.jpg",
+      "PackagePath": "staticwebassets\\images\\product-detail-page\\camelia-reversible9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-detail-page\\cape-dress-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-detail-page\\cape-dress-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-detail-page\\cape-dress-2.jpg",
+      "PackagePath": "staticwebassets\\images\\product-detail-page\\cape-dress-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-detail-page\\cape-dress-3.jpg",
+      "PackagePath": "staticwebassets\\images\\product-detail-page\\cape-dress-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-detail-page\\cape-dress-4.jpg",
+      "PackagePath": "staticwebassets\\images\\product-detail-page\\cape-dress-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-detail-page\\cape-dress-5.jpg",
+      "PackagePath": "staticwebassets\\images\\product-detail-page\\cape-dress-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-detail-page\\cape-dress-6.jpg",
+      "PackagePath": "staticwebassets\\images\\product-detail-page\\cape-dress-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-detail-page\\cape-dress-7.jpg",
+      "PackagePath": "staticwebassets\\images\\product-detail-page\\cape-dress-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-detail-page\\cape-dress-8.jpg",
+      "PackagePath": "staticwebassets\\images\\product-detail-page\\cape-dress-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-detail-page\\product-labels1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-detail-page\\product-labels1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-detail-page\\product-labels2.jpg",
+      "PackagePath": "staticwebassets\\images\\product-detail-page\\product-labels2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-detail-page\\product-labels4.jpg",
+      "PackagePath": "staticwebassets\\images\\product-detail-page\\product-labels4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-detail-page\\product-labels5.jpg",
+      "PackagePath": "staticwebassets\\images\\product-detail-page\\product-labels5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-detail-page\\product-labels6.jpg",
+      "PackagePath": "staticwebassets\\images\\product-detail-page\\product-labels6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-detail-page\\product-with-dropdown1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-detail-page\\product-with-dropdown1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-detail-page\\product-with-dropdown2.jpg",
+      "PackagePath": "staticwebassets\\images\\product-detail-page\\product-with-dropdown2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-detail-page\\product-with-dropdown3.jpg",
+      "PackagePath": "staticwebassets\\images\\product-detail-page\\product-with-dropdown3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-detail-page\\product-with-dropdown4.jpg",
+      "PackagePath": "staticwebassets\\images\\product-detail-page\\product-with-dropdown4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-detail-page\\product-with-image-swatch1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-detail-page\\product-with-image-swatch1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-detail-page\\product-with-image-swatch2.jpg",
+      "PackagePath": "staticwebassets\\images\\product-detail-page\\product-with-image-swatch2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-detail-page\\product-with-image-swatch3.jpg",
+      "PackagePath": "staticwebassets\\images\\product-detail-page\\product-with-image-swatch3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-detail-page\\product-with-image-swatch4.jpg",
+      "PackagePath": "staticwebassets\\images\\product-detail-page\\product-with-image-swatch4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-detail-page\\product-with-image-swatch5.jpg",
+      "PackagePath": "staticwebassets\\images\\product-detail-page\\product-with-image-swatch5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-detail-page\\product-with-image-swatch6.jpg",
+      "PackagePath": "staticwebassets\\images\\product-detail-page\\product-with-image-swatch6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-detail-page\\product-with-right-thumbs-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-detail-page\\product-with-right-thumbs-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-detail-page\\product-with-right-thumbs-2.jpg",
+      "PackagePath": "staticwebassets\\images\\product-detail-page\\product-with-right-thumbs-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-detail-page\\product-with-right-thumbs-3.jpg",
+      "PackagePath": "staticwebassets\\images\\product-detail-page\\product-with-right-thumbs-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-detail-page\\product-with-right-thumbs-4.jpg",
+      "PackagePath": "staticwebassets\\images\\product-detail-page\\product-with-right-thumbs-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-detail-page\\product-with-right-thumbs-5.jpg",
+      "PackagePath": "staticwebassets\\images\\product-detail-page\\product-with-right-thumbs-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-detail-page\\product-with-right-thumbs-6.jpg",
+      "PackagePath": "staticwebassets\\images\\product-detail-page\\product-with-right-thumbs-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-detail-page\\variant1-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-detail-page\\variant1-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-detail-page\\variant1-2.jpg",
+      "PackagePath": "staticwebassets\\images\\product-detail-page\\variant1-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-detail-page\\variant1-3.jpg",
+      "PackagePath": "staticwebassets\\images\\product-detail-page\\variant1-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-detail-page\\variant1-4.jpg",
+      "PackagePath": "staticwebassets\\images\\product-detail-page\\variant1-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-detail-page\\variant1-5.jpg",
+      "PackagePath": "staticwebassets\\images\\product-detail-page\\variant1-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-detail-page\\variant1-6.jpg",
+      "PackagePath": "staticwebassets\\images\\product-detail-page\\variant1-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\auto-parts-p-img1-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\auto-parts-p-img1-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\auto-parts-p-img1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\auto-parts-p-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\auto-parts-p-img2-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\auto-parts-p-img2-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\auto-parts-p-img2.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\auto-parts-p-img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\auto-parts-p-img3-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\auto-parts-p-img3-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\auto-parts-p-img3.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\auto-parts-p-img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\auto-parts-p-img4-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\auto-parts-p-img4-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\auto-parts-p-img4.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\auto-parts-p-img4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\bags-p-img1-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\bags-p-img1-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\bags-p-img1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\bags-p-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\bags-p-img2-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\bags-p-img2-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\bags-p-img2.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\bags-p-img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\bags-p-img3-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\bags-p-img3-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\bags-p-img3.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\bags-p-img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\bags-p-img4-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\bags-p-img4-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\bags-p-img4.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\bags-p-img4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\bags-p-img5-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\bags-p-img5-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\bags-p-img5.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\bags-p-img5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\bags-p-img6-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\bags-p-img6-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\bags-p-img6.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\bags-p-img6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\bags-p-img7-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\bags-p-img7-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\bags-p-img7.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\bags-p-img7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\bags-p-img8-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\bags-p-img8-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\bags-p-img8.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\bags-p-img8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\black-2.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\black-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\black.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\black.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\blue.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\blue.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\cape-dress-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\cape-dress-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\cape-dress-2.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\cape-dress-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\green.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\green.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\home15-product1-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\home15-product1-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\home15-product1-2.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\home15-product1-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\home15-product1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\home15-product1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\home15-product2-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\home15-product2-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\home15-product3.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\home15-product3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\home15-product4-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\home15-product4-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\home15-product4.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\home15-product4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\home15-product5-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\home15-product5-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\home15-product5.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\home15-product5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\home15-product6-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\home15-product6-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\home15-product6.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\home15-product6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\home15-product7-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\home15-product7-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\home15-product7.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\home15-product7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\home7-product1-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\home7-product1-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\home7-product1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\home7-product1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\home7-product2-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\home7-product2-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\home7-product2.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\home7-product2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\home7-product3-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\home7-product3-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\home7-product3.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\home7-product3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\home7-product4-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\home7-product4-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\home7-product4.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\home7-product4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\home7-product5-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\home7-product5-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\home7-product5.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\home7-product5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\home7-product6-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\home7-product6-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\home7-product6.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\home7-product6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\mini-product-img.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\mini-product-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\mini-product-img1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\mini-product-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\mini-product-img2.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\mini-product-img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\mini-product-img3.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\mini-product-img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image-stw1-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image-stw1-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image-stw1-2.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image-stw1-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image-stw1-3.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image-stw1-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image-stw1-4.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image-stw1-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image-stw1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image-stw1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image-swt2-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image-swt2-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image-swt2-2.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image-swt2-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image-swt2.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image-swt2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image1-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image1-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image10-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image10-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image10.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image11-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image11-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image11.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image12-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image12-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image12.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image13-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image13-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image13.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image14-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image14-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image14.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image15-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image15-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image15.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image16-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image16-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image16.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image17-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image17-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image17.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image18-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image18-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image18.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image19-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image19-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image19.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image2-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image2-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image2.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image20-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image20-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image20.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image21-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image21-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image21.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image22-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image22-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image22.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image23-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image23-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image23.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image24-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image24-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image24.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image25-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image25-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image25.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image26-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image26-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image26.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image27-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image27-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image27.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image28-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image28-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image28.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image28.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image29-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image29-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image29.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image29.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image3-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image3-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image3.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image30-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image30-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image30.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image30.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image31-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image31-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image31.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image31.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image32-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image32-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image32.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image32.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image33-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image33-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image33.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image33.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image34-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image34-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image34.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image34.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image35-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image35-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image35.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image35.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image36-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image36-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image36.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image36.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image37-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image37-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image37.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image37.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image38-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image38-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image38.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image38.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image39-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image39-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image39.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image39.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image4-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image4-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image4.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image40-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image40-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image40.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image40.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image41-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image41-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image41.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image41.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image42-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image42-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image42.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image42.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image43-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image43-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image43.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image43.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image44-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image44-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image44.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image44.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image45-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image45-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image45.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image45.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image46-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image46-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image46.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image46.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image47-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image47-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image47.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image47.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image48-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image48-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image48.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image48.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image49-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image49-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image49.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image49.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image5-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image5-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image5.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image50-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image50-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image50.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image50.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image6-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image6-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image6.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image7-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image7-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image7.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image8-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image8-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image8.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image9-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image9-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\product-image9.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\product-image9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\variant1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\variant1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\variant2-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\variant2-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\variant2-2.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\variant2-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\variant2-3.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\variant2-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\variant2-4.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\variant2-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\variant2.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\variant2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\variant3-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\variant3-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\variant3-2.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\variant3-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\variant3-3.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\variant3-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\variant3-4.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\variant3-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\variant3.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\variant3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\variant4-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\variant4-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\variant4-2.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\variant4-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\variant4-3.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\variant4-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\variant4-4.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\variant4-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\variant4.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\variant4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\variant5-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\variant5-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\variant5.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\variant5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\product-images\\variant6.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\variant6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\recent-commnet-img.jpg",
+      "PackagePath": "staticwebassets\\images\\recent-commnet-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\reliable.png",
+      "PackagePath": "staticwebassets\\images\\reliable.png"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\return-mini.png",
+      "PackagePath": "staticwebassets\\images\\return-mini.png"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\return.png",
+      "PackagePath": "staticwebassets\\images\\return.png"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\safepayment.png",
+      "PackagePath": "staticwebassets\\images\\safepayment.png"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\shield.png",
+      "PackagePath": "staticwebassets\\images\\shield.png"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\side-banner-2.jpg",
+      "PackagePath": "staticwebassets\\images\\side-banner-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\size.jpg",
+      "PackagePath": "staticwebassets\\images\\size.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\slideshow-banners\\belle-banner1.jpg",
+      "PackagePath": "staticwebassets\\images\\slideshow-banners\\belle-banner1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\slideshow-banners\\belle-banner2.jpg",
+      "PackagePath": "staticwebassets\\images\\slideshow-banners\\belle-banner2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\slideshow-banners\\home11-grid-banner1.jpg",
+      "PackagePath": "staticwebassets\\images\\slideshow-banners\\home11-grid-banner1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\slideshow-banners\\home11-grid-banner2.jpg",
+      "PackagePath": "staticwebassets\\images\\slideshow-banners\\home11-grid-banner2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\slideshow-banners\\home12-category-banner1.jpg",
+      "PackagePath": "staticwebassets\\images\\slideshow-banners\\home12-category-banner1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\slideshow-banners\\home12-category-banner2.jpg",
+      "PackagePath": "staticwebassets\\images\\slideshow-banners\\home12-category-banner2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\slideshow-banners\\home13-auto-parts-bnr1-mobile.jpg",
+      "PackagePath": "staticwebassets\\images\\slideshow-banners\\home13-auto-parts-bnr1-mobile.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\slideshow-banners\\home13-auto-parts-bnr1.jpg",
+      "PackagePath": "staticwebassets\\images\\slideshow-banners\\home13-auto-parts-bnr1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\slideshow-banners\\home14-bags-bnr1.jpg",
+      "PackagePath": "staticwebassets\\images\\slideshow-banners\\home14-bags-bnr1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\slideshow-banners\\home2-default-banner1.jpg",
+      "PackagePath": "staticwebassets\\images\\slideshow-banners\\home2-default-banner1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\slideshow-banners\\home2-default-banner2.jpg",
+      "PackagePath": "staticwebassets\\images\\slideshow-banners\\home2-default-banner2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\slideshow-banners\\home3-banner-mobile.jpg",
+      "PackagePath": "staticwebassets\\images\\slideshow-banners\\home3-banner-mobile.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\slideshow-banners\\home3-banner.jpg",
+      "PackagePath": "staticwebassets\\images\\slideshow-banners\\home3-banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\slideshow-banners\\home4-banner.jpg",
+      "PackagePath": "staticwebassets\\images\\slideshow-banners\\home4-banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\slideshow-banners\\home5-banner1.jpg",
+      "PackagePath": "staticwebassets\\images\\slideshow-banners\\home5-banner1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\slideshow-banners\\home5-banner2.jpg",
+      "PackagePath": "staticwebassets\\images\\slideshow-banners\\home5-banner2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\slideshow-banners\\home7-banner1.jpg",
+      "PackagePath": "staticwebassets\\images\\slideshow-banners\\home7-banner1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\slideshow-banners\\home7-banner2.jpg",
+      "PackagePath": "staticwebassets\\images\\slideshow-banners\\home7-banner2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\slideshow-banners\\home8-jewelry-banner1.jpg",
+      "PackagePath": "staticwebassets\\images\\slideshow-banners\\home8-jewelry-banner1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\slideshow-banners\\home8-jewelry-banner2.jpg",
+      "PackagePath": "staticwebassets\\images\\slideshow-banners\\home8-jewelry-banner2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\slideshow-banners\\home9-banner1.jpg",
+      "PackagePath": "staticwebassets\\images\\slideshow-banners\\home9-banner1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\swatches\\color-img1.jpg",
+      "PackagePath": "staticwebassets\\images\\swatches\\color-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\swatches\\color-img2.jpg",
+      "PackagePath": "staticwebassets\\images\\swatches\\color-img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\swatches\\color-img3.jpg",
+      "PackagePath": "staticwebassets\\images\\swatches\\color-img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\swatches\\color-img4.jpg",
+      "PackagePath": "staticwebassets\\images\\swatches\\color-img4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\truck-mini.png",
+      "PackagePath": "staticwebassets\\images\\truck-mini.png"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\truck.png",
+      "PackagePath": "staticwebassets\\images\\truck.png"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\warranty.png",
+      "PackagePath": "staticwebassets\\images\\warranty.png"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\images\\worldwide.png",
+      "PackagePath": "staticwebassets\\images\\worldwide.png"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\img\\bg-img\\beddingWPslide.jpg",
+      "PackagePath": "staticwebassets\\img\\bg-img\\beddingWPslide.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\img\\bg-img\\bg-2.jpg",
+      "PackagePath": "staticwebassets\\img\\bg-img\\bg-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\img\\bg-img\\bg-3.jpg",
+      "PackagePath": "staticwebassets\\img\\bg-img\\bg-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\img\\bg-img\\bg-4.jpg",
+      "PackagePath": "staticwebassets\\img\\bg-img\\bg-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\img\\bg-img\\bg-5.jpg",
+      "PackagePath": "staticwebassets\\img\\bg-img\\bg-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\img\\bg-img\\tes-1.jpg",
+      "PackagePath": "staticwebassets\\img\\bg-img\\tes-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\img\\core-img\\favicon.ico",
+      "PackagePath": "staticwebassets\\img\\core-img\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\img\\core-img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\core-img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\img\\product-img\\product-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product-img\\product-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\img\\product-img\\product-10.jpg",
+      "PackagePath": "staticwebassets\\img\\product-img\\product-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\img\\product-img\\product-11.jpg",
+      "PackagePath": "staticwebassets\\img\\product-img\\product-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\img\\product-img\\product-12.jpg",
+      "PackagePath": "staticwebassets\\img\\product-img\\product-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\img\\product-img\\product-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product-img\\product-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\img\\product-img\\product-3.jpg",
+      "PackagePath": "staticwebassets\\img\\product-img\\product-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\img\\product-img\\product-4.jpg",
+      "PackagePath": "staticwebassets\\img\\product-img\\product-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\img\\product-img\\product-5.jpg",
+      "PackagePath": "staticwebassets\\img\\product-img\\product-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\img\\product-img\\product-6.jpg",
+      "PackagePath": "staticwebassets\\img\\product-img\\product-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\img\\product-img\\product-7.jpg",
+      "PackagePath": "staticwebassets\\img\\product-img\\product-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\img\\product-img\\product-8.jpg",
+      "PackagePath": "staticwebassets\\img\\product-img\\product-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\img\\product-img\\product-9.jpg",
+      "PackagePath": "staticwebassets\\img\\product-img\\product-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\img\\shopping-cart.png",
+      "PackagePath": "staticwebassets\\img\\shopping-cart.png"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\js\\lazysizes.js",
+      "PackagePath": "staticwebassets\\js\\lazysizes.js"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\js\\plugins.js"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\js\\vendor\\instagram-feed.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\instagram-feed.js"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\js\\vendor\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\js\\vendor\\jquery.cookie.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\jquery.cookie.js"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\js\\vendor\\masonry.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\masonry.js"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\js\\vendor\\modernizr-3.6.0.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\modernizr-3.6.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\js\\vendor\\photoswipe-ui-default.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\photoswipe-ui-default.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\js\\vendor\\photoswipe.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\photoswipe.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Wests\\Desktop\\ClassTesting\\Sweetdreams\\Sweetdreams\\wwwroot\\js\\vendor\\wow.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\wow.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Sweetdreams.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Sweetdreams.props",
+      "PackagePath": "build\\Sweetdreams.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Sweetdreams.props",
+      "PackagePath": "buildMultiTargeting\\Sweetdreams.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Sweetdreams.props",
+      "PackagePath": "buildTransitive\\Sweetdreams.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
