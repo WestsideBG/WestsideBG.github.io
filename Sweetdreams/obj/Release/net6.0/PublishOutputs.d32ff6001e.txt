@@ -8,6 +8,7 @@ C:\Users\Wests\Desktop\task-212\WestsideBG.github.io\Sweetdreams\obj\Release\net
 C:\Users\Wests\Desktop\task-212\WestsideBG.github.io\Sweetdreams\obj\Release\net6.0\PubTmp\Out\MessagePack.dll
 C:\Users\Wests\Desktop\task-212\WestsideBG.github.io\Sweetdreams\obj\Release\net6.0\PubTmp\Out\MessagePack.Annotations.dll
 C:\Users\Wests\Desktop\task-212\WestsideBG.github.io\Sweetdreams\obj\Release\net6.0\PubTmp\Out\Microsoft.AspNetCore.Authentication.Facebook.dll
+C:\Users\Wests\Desktop\task-212\WestsideBG.github.io\Sweetdreams\obj\Release\net6.0\PubTmp\Out\Microsoft.AspNetCore.Authentication.Google.dll
 C:\Users\Wests\Desktop\task-212\WestsideBG.github.io\Sweetdreams\obj\Release\net6.0\PubTmp\Out\Microsoft.AspNetCore.Cryptography.Internal.dll
 C:\Users\Wests\Desktop\task-212\WestsideBG.github.io\Sweetdreams\obj\Release\net6.0\PubTmp\Out\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
 C:\Users\Wests\Desktop\task-212\WestsideBG.github.io\Sweetdreams\obj\Release\net6.0\PubTmp\Out\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll

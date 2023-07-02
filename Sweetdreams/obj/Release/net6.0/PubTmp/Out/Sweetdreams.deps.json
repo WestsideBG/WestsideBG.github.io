@@ -9,6 +9,7 @@
       "Sweetdreams/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.Authentication.Facebook": "6.0.16",
+          "Microsoft.AspNetCore.Authentication.Google": "6.0.16",
           "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": "6.0.11",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.15",
           "Microsoft.AspNetCore.Identity.UI": "6.0.15",
@@ -57,6 +58,14 @@
       "Microsoft.AspNetCore.Authentication.Facebook/6.0.16": {
         "runtime": {
           "lib/net6.0/Microsoft.AspNetCore.Authentication.Facebook.dll": {
+            "assemblyVersion": "6.0.16.0",
+            "fileVersion": "6.0.1623.17406"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.Authentication.Google/6.0.16": {
+        "runtime": {
+          "lib/net6.0/Microsoft.AspNetCore.Authentication.Google.dll": {
             "assemblyVersion": "6.0.16.0",
             "fileVersion": "6.0.1623.17406"
           }
@@ -2399,6 +2408,13 @@
       "sha512": "sha512-hNKadnleiCdt8Wv09CjH73hZvKzZ1yjSB72vYrKQ2L/LsJC+SB8Qlx6K3o5cnOqoBTRpIE1Dn4PqbJBY8bxKKQ==",
       "path": "microsoft.aspnetcore.authentication.facebook/6.0.16",
       "hashPath": "microsoft.aspnetcore.authentication.facebook.6.0.16.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.Authentication.Google/6.0.16": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-MbWGOoW1XGcy6aFEmXaQwztyhR+VjmvhSZW+d8/0xE5PO9S9nWUYGRNEPDqdk95vxxbQQHmBDG+nFYoeh8FmgA==",
+      "path": "microsoft.aspnetcore.authentication.google/6.0.16",
+      "hashPath": "microsoft.aspnetcore.authentication.google.6.0.16.nupkg.sha512"
     },
     "Microsoft.AspNetCore.Cryptography.Internal/6.0.15": {
       "type": "package",

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "njcb9qzcgi5dxwE5/S3p6C+mHHvpwnYiEB1U/LgpkyNkxEK57Qw/3NSbGraq/6Ygc6QAStTe3zZqIz/SBOpDmw==",
+  "dgSpecHash": "j7qa3jMbTZZrMvzM8T9OnNwJN5eSO2k+BRGHEAPK9BP3unnTVMVL0PAwYsa6lUPJu/D7zo53HNshraDm7MrCEw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Wests\\Desktop\\task-212\\WestsideBG.github.io\\Sweetdreams\\Sweetdreams.csproj",
   "expectedPackageFiles": [
@@ -9,6 +9,7 @@
     "C:\\Users\\Wests\\.nuget\\packages\\messagepack.annotations\\2.1.152\\messagepack.annotations.2.1.152.nupkg.sha512",
     "C:\\Users\\Wests\\.nuget\\packages\\messagepackanalyzer\\2.1.152\\messagepackanalyzer.2.1.152.nupkg.sha512",
     "C:\\Users\\Wests\\.nuget\\packages\\microsoft.aspnetcore.authentication.facebook\\6.0.16\\microsoft.aspnetcore.authentication.facebook.6.0.16.nupkg.sha512",
+    "C:\\Users\\Wests\\.nuget\\packages\\microsoft.aspnetcore.authentication.google\\6.0.16\\microsoft.aspnetcore.authentication.google.6.0.16.nupkg.sha512",
     "C:\\Users\\Wests\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.15\\microsoft.aspnetcore.cryptography.internal.6.0.15.nupkg.sha512",
     "C:\\Users\\Wests\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\6.0.15\\microsoft.aspnetcore.cryptography.keyderivation.6.0.15.nupkg.sha512",
     "C:\\Users\\Wests\\.nuget\\packages\\microsoft.aspnetcore.diagnostics.entityframeworkcore\\6.0.11\\microsoft.aspnetcore.diagnostics.entityframeworkcore.6.0.11.nupkg.sha512",

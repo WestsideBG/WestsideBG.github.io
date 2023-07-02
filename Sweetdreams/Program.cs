@@ -39,9 +39,13 @@ builder.Services.Configure<MvcOptions>(options =>
 builder.Services.AddAuthentication()
     .AddFacebook(options =>
 {
-    options.AppId = "563982825836379";
-    options.AppSecret = "f8b9b947efe27782df75f89faedd6451";
+    options.AppId = "776336303878307";
+    options.AppSecret = "83dd233ef902148f47125e8d2d78f458";
 
+}).AddGoogle(options =>
+{
+    options.ClientId = "1057977170699-7ahcoc553f12jvki5h5rl9l5uls2697g.apps.googleusercontent.com";
+    options.ClientSecret = "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";
 });
 
 var app = builder.Build();
