@@ -6,6 +6,9 @@ using Sweetdreams.Models.Identity;
 
 var builder = WebApplication.CreateBuilder(args);
 
+//Hello World this is my great comment.
+
+
 // Add services to the container.
 var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
